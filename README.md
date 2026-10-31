@@ -72,15 +72,100 @@
 
 Everything profiled for 12backlinks is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/12backlinks-com/](https://apis.io/providers/12backlinks-com/)** — or go straight to one of the APIs or properties below.
 
+### APIs (5)
+
+- [12backlinks Account API](https://apis.io/apis/12backlinks-com/12backlinks-com-account-api/) — The Account API from 12backlinks — 1 operation(s) for account.
+- [12backlinks Analyses API](https://apis.io/apis/12backlinks-com/12backlinks-com-analyses-api/) — The Analyses API from 12backlinks — 1 operation(s) for analyses.
+- [12backlinks Batches API](https://apis.io/apis/12backlinks-com/12backlinks-com-batches-api/) — The Batches API from 12backlinks — 2 operation(s) for batches.
+- [12backlinks Link Gaps API](https://apis.io/apis/12backlinks-com/12backlinks-com-link-gaps-api/) — The Link Gaps API from 12backlinks — 3 operation(s) for link gaps.
+- [12backlinks Markets API](https://apis.io/apis/12backlinks-com/12backlinks-com-markets-api/) — The Markets API from 12backlinks — 1 operation(s) for markets.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [12Backlinks Com Agentic Access](https://apis.io/agentic-access/12backlinks-com/12backlinks-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [12backlinks API Rules](https://apis.io/rules/12backlinks-com/12backlinks-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [12Backlinks Com Authentication](https://apis.io/security/12backlinks-com/12backlinks-com-authentication/)
+- [12Backlinks Com Domain Security](https://apis.io/security/12backlinks-com/12backlinks-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [12Backlinks Com Scopes](https://apis.io/scopes/12backlinks-com/12backlinks-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [12Backlinks Com Plans Pricing](https://apis.io/plans/12backlinks-com/12backlinks-com-plans-pricing/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://12backlinks.com/)
+- [Documentation](https://12backlinks.com/developers)
+- [API reference](https://12backlinks.com/api/openapi.json)
+- [Terms of service](https://12backlinks.com/terms)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/12backlinks-com/](https://apis.io/providers/12backlinks-com/).
+**Kin Score 37.4** — thin · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 46.2 |
+| Contract governance | 65.5 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 35.0 |
+| Access clarity | 10.5 |
+
+**Agent readiness 38.0** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | verified |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 30.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/12backlinks-com/](https://apis.io/providers/12backlinks-com/).
 
 ## How this profile is made
 
