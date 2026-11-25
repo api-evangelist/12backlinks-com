@@ -66,7 +66,7 @@
 
 12backlinks provides a French-language SEO tool that helps users determine how many backlinks are needed to rank on the first page of Google for a given keyword. The service offers a bulk analysis feature, explains the concept of backlinks as votes of trust, and emphasizes the importance of quality content and links for SEO success. It exposes an API and MCP for programmatic access to backlink calculations.
 
-**Areas:** SEO · Backlinks · Marketing · French · API
+**Areas:** SEO · Backlinks · Marketing · French
 
 ## 12backlinks on APIs.io
 
@@ -88,7 +88,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [12Backlinks Com Agentic Access](https://apis.io/agentic-access/12backlinks-com/12backlinks-com-agentic-access/)
+- [12backlinks Agentic Access](https://apis.io/agentic-access/12backlinks-com/12backlinks-com-agentic-access/)
 
 #### Governance rules (1)
 
@@ -100,20 +100,20 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [12Backlinks Com Authentication](https://apis.io/security/12backlinks-com/12backlinks-com-authentication/)
-- [12Backlinks Com Domain Security](https://apis.io/security/12backlinks-com/12backlinks-com-domain-security/)
+- [12backlinks Authentication](https://apis.io/security/12backlinks-com/12backlinks-com-authentication/)
+- [12backlinks Domain Security](https://apis.io/security/12backlinks-com/12backlinks-com-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [12Backlinks Com Scopes](https://apis.io/scopes/12backlinks-com/12backlinks-com-scopes/)
+- [12backlinks Scopes](https://apis.io/scopes/12backlinks-com/12backlinks-com-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [12Backlinks Com Plans Pricing](https://apis.io/plans/12backlinks-com/12backlinks-com-plans-pricing/)
+- [12backlinks Plans Pricing](https://apis.io/plans/12backlinks-com/12backlinks-com-plans-pricing/)
 
 ## Where to find this API
 
@@ -126,25 +126,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 37.4** — thin · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 34.0** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
-| Contract quality | 46.2 |
-| Contract governance | 65.5 |
+| Discoverability | 57.1 |
+| Contract quality | 49.2 |
+| Contract governance | 31.8 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 35.0 |
-| Access clarity | 10.5 |
+| Access clarity | 8.5 |
 
-**Agent readiness 38.0** — agent-ready
+**Agent readiness 30.0** — agent-ready
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | bearer (partial credit) |
 | Idempotency | verified |
 | Error Semantics | derived (partial credit) |
@@ -162,8 +162,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | — |
 | Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 30.4** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/12backlinks-com/](https://apis.io/providers/12backlinks-com/).
 
